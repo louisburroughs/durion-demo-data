@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="http://moqui.org/xsd/moqui-conf-3.xsd"
+           name="durion-demo-data" version="1.0.0">
+    <description>Durion Demo Data - Demo and Sample Data</description>
+    <depends-on name="durion-common"/>
+    <depends-on name="durion-crm"/>
+    <depends-on name="durion-product"/>
+    <depends-on name="durion-inventory"/>
+    <depends-on name="durion-accounting"/>
+</component>
